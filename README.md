@@ -71,5 +71,3 @@ See `nextjs-app/app/api/code-comment/route.ts` for exact contract and model conf
 ## Deployment
 Deploy to any Next.js-compatible host (Vercel, Netlify, Docker, etc.). Ensure required env vars for your LLM/provider are configured.
 
-## License
-See the repository root `LICENSE` file.
